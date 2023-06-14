@@ -1,0 +1,11 @@
+{
+  "connections": [
+    {
+      "connection_name": "test_connection_one",
+      "dbname": "postgres",
+      "host": "localhost",
+      "port": "5432",
+      "user": "cjtorralba"
+    }
+  ]
+}
